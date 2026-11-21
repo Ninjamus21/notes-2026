@@ -100,7 +100,7 @@ const QUESTIONS = [
         reply: "Noted."
     },
 
-    { type: truefalse,
+    { type: "truefalse",
         prompt: "True or false: I am the best gift giver.",
         labels: ["True", "False"],
         ifTrue: "o(*^@^*)o tak skat",
