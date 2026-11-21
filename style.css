@@ -57,7 +57,7 @@
   .choice.is-chosen { border-color: var(--text); background: var(--surface); }
   .choice:disabled:not(.is-chosen) { opacity: .4; cursor: default; }
 
-  .scale { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+  .scale { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
   .scale .choice { text-align: center; padding: 0; font-size: 19px; }
   .scale-labels { display: flex; justify-content: space-between; margin-top: 10px; font-size: 14px; color: var(--muted); }
 
